@@ -8,6 +8,8 @@ license = "Apache-2.0"
 [tool.poetry.dependencies]
 python = "^3.7"
 
+pydantic = "^1.7.2"
+
 [tool.poetry.dev-dependencies]
 # Format
 black = "^20.8b1"
